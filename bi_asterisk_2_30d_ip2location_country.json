@@ -1,0 +1,46 @@
+[
+	{
+		"code": "CA",
+		"value": 3
+	},
+	{
+		"code": "COUNTRYLESS",
+		"value": 1
+	},
+	{
+		"code": "DE",
+		"value": 18
+	},
+	{
+		"code": "FR",
+		"value": 65
+	},
+	{
+		"code": "GB",
+		"value": 8
+	},
+	{
+		"code": "IE",
+		"value": 1
+	},
+	{
+		"code": "IN",
+		"value": 1
+	},
+	{
+		"code": "NL",
+		"value": 12
+	},
+	{
+		"code": "PS",
+		"value": 65
+	},
+	{
+		"code": "RU",
+		"value": 14
+	},
+	{
+		"code": "US",
+		"value": 16
+	}
+]

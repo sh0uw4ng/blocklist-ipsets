@@ -1,0 +1,26 @@
+[
+	{
+		"name": "bambenek_c2",
+		"category": "malware",
+		"ips": 457,
+		"common": 1
+	},
+	{
+		"name": "bambenek_dircrypt",
+		"category": "malware",
+		"ips": 4,
+		"common": 1
+	},
+	{
+		"name": "blueliv_crimeserver_last_30d",
+		"category": "attacks",
+		"ips": 87551,
+		"common": 1
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 630268968,
+		"common": 1
+	}
+]
